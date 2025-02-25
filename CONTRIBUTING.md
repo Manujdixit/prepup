@@ -1,13 +1,13 @@
-# Contributing to Tayyari Plus
+# Contributing to PrepUp
 
-Thank you for your interest in contributing to Tayyari Plus! This guide will help you get started with contributing to the project.
+Thank you for your interest in contributing to PrepUp! This guide will help you get started with contributing to the project.
 
 ## Development Workflow
 
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tayyari_plus.git
+   git clone https://github.com/YOUR_USERNAME/prepup.git
    ```
 3. Create a new branch from `dev`:
    ```bash

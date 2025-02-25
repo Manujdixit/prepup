@@ -1,4 +1,4 @@
-# Tayyari Plus
+# PrepUp
 
 A modern learning and assessment system.
 
@@ -14,8 +14,8 @@ A modern learning and assessment system.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tayyari_plus.git
-   cd tayyari_plus
+   git clone https://github.com/your-username/prepup.git
+   cd prepup
    ```
 
 2. Install dependencies:
@@ -31,7 +31,7 @@ A modern learning and assessment system.
 
 ## Contributing
 
-We welcome contributions to Tayyari Plus! Please see our [Contributing Guide](CONTRIBUTING.md) for details on how to contribute to this project.
+We welcome contributions to Prepup! Please see our [Contributing Guide](CONTRIBUTING.md) for details on how to contribute to this project.
 
 ## Support
 
