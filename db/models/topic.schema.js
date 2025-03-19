@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 var topicSchema = new mongoose.Schema(
   {
     name: {
-      type: stringify,
+      type: String,
       required: true,
     },
     parentTopic: {
