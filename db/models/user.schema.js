@@ -10,7 +10,7 @@ var userSchema = new mongoose.Schema(
       lowercase: true,
     },
     clerkid: {
-      type: string,
+      type: String,
       required: true,
     },
     firstname: {
